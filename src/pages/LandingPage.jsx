@@ -171,7 +171,7 @@ function LandingPage() {
           </div>
         </div>
       </div>
-
+      
       <div className="container mx-auto my-8 px-5">
         <div className="grid grid-cols-1 md:grid-cols-2 items-center bg-gray-50">
           <div className="text-indigo-950 px-5">
